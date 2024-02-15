@@ -1,2 +1,3 @@
-# Reconhecimento-Facial-
-Guia Básico para a criação de uma ferramenta de Reconhecimento Facial a partir de fotos  
+## Criação de uma inteligencia artificial com Reconhecimento Facial 
+
+Uma breve descrição sobre o que esse projeto faz e para quem ele é
